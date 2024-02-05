@@ -1,5 +1,6 @@
 /*
  * Programm zur Berechnung einer Collatzfolge
+ * Yaser hat eine Frage.
  */
 
 
